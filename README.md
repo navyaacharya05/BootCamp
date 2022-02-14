@@ -1,16 +1,16 @@
-#Corporate Directory
+# Corporate Directory
 
-Technologies used:
+# Technologies used:
 
-Frontend:React Js
+# Frontend:React Js
 
 React js  is a open source JavaScript library used for building user interfaces speciacally for single page applications.
 
-Backend:Springboot with Java
+# Backend:Springboot with Java
 
 Spring boot is an opensource Java-based framework used to create a micro Service.Helps to create applications that just run.
 
-Implementaion:
+# Implementaion:
 
 1)Created new Database for this project in Xampp->phpMyadmin
 
@@ -53,7 +53,7 @@ also added the database name in application.properties file.
  
  8)Used GetMapping,PutMapping,PostMapping,DeleteMapping functions of axios.
  
- 9)Tools used:
+ # Tools used:
     Frontend:VS Code
     Backend :Eclipse with Java EE,Xampp
             
