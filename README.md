@@ -21,7 +21,7 @@ Spring boot is an opensource Java-based framework used to create a micro Service
 4)Imported springboot project ,created-Entity,Repository,Service and Controller files in Eclipse.Added dependencies of mysql connector in pom.xml and 
 also added the database name in application.properties file.
 
-5)In the frontend create a new project using command:
+5)In the frontend created a new project using command:
 
         Goto Terminal->New Teminal
 	
